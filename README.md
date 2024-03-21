@@ -20,5 +20,8 @@ UI
 
 Presentacion
 
-![20240321_012051](https://github.com/marthapesantez/pokemon-java-app/assets/11249080/bab1e377-90d0-4e80-a696-cd7b93ee52e5)
-![20240321_012051](https://github.com/marthapesantez/pokemon-java-app/assets/11249080/b7ce555d-3e88-4368-b7fa-da3ecaf1ddc6)
+![20240321_012029](https://github.com/marthapesantez/pokemon-java-app/assets/11249080/1a4ab107-5436-49ae-9abe-2bf0f33d892f)
+
+![20240321_012051](https://github.com/marthapesantez/pokemon-java-app/assets/11249080/9c7e409f-2513-42ce-ba5c-c70a45e2c431)
+
+
